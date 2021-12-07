@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\User\source\repos\cs405project\Model3D.hpp(34,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\cs405project\Parametric3DShape.hpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\User\source\repos\cs405project\ParametricLine.hpp(30,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\cs405project\ParametricLine.hpp(43,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\cs405project\Parametric3DShape.hpp(62,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\cs405project\Parametric3DShape.hpp(64,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\cs405project\Parametric3DShape.hpp(79,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\cs405project\Parametric3DShape.hpp(81,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\cs405project\Parametric3DShape.hpp(100,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\cs405project\Parametric3DShape.hpp(102,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\cs405project\Main.cpp(64,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\cs405project\Main.cpp(65,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\cs405project\Main.cpp(195,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\cs405project\Main.cpp(196,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  cs405project.vcxproj -> C:\Users\User\source\repos\cs405project\x64\Debug\cs405project.exe
